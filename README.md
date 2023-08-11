@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @DingHui-Li
 - 👀 I’m interested in Front-end development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on web development 
-      and wx microApp
 - 📫 Feel free to contact me
 
 <!---
